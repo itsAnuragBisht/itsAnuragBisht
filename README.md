@@ -1,3 +1,4 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
 <h1 align="center">Hi 👋, I'm Anurag Bisht</h1>
 <h3 align="center">Experienced in C++, HTML/CSS, and Python. I enjoy solving problems and also worked as Front-End developer.</h3>
 
@@ -6,6 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/itsAnuragBisht?tab=repositories](https://github.com/itsAnuragBisht?tab=repositories)
 
 - 📫 How to reach me **anuragbisht15122003@gmail.com**
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
